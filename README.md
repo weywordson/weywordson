@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @weywordson
+- 👋 Hi, I’m Kolade Eniola
 - 👀 I’m interested in ...trading, coding, fitness
-- 🌱 I’m currently learning ...full stack web development, html, css, JavaScript, bootstrap, nodeJS, react etc.
-- 💞️ I’m looking to collaborate on ...IOS web development, Ecommerce development, anything coding related really.
+- 🌱 I’m currently immersed in blockchain development & machine learning with a tech stack in solidity, python, react & javascript.
+- 💞️ I’m looking to collaborate on anything coding related really.
 - 📫 How to reach me ...weywordson@protonmail.com
 
 <!---
